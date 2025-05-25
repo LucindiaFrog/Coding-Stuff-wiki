@@ -1,10 +1,10 @@
-placeholder {
-    background: -;
-}
+
 
 head {
     background: #c1e4a5;
+    box-shadow: 5px 5px 15px rgba(62, 122, 50, 0.705);
 }
 body {
     background: #b0d592;
+    box-shadow: 5px 5px 15px rgba(62, 122, 50, 0.705);
 }

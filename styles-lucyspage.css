@@ -1,1 +1,8 @@
-
+head {
+    background: #f74646;
+    box-shadow: 5px 5px 15px rgba(62, 122, 50, 0.705);
+}
+body {
+    background: #e54242;
+    box-shadow: 5px 5px 15px rgba(62, 122, 50, 0.705);
+}
